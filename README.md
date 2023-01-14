@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- :raising_hand: I'm Tasnim, a full stack developer, making a career shift from Clinical Research!
 - 🔭 I’m currently working on developing a quizzing application.
 - 🌱 I’m currently learning Java and Python.
 - 📫 How to reach me: tasnim.mollah@aya.yale.edu or https://www.linkedin.com/in/tasnimm/
