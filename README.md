@@ -1,21 +1,20 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s---9BwJUdJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8xgum8zceh1047ln7r3b.jpg)]
-<h1 align="center">Hi 👋, I'm Tasnim (pronounced "t-uh-s-neem")</h1>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif”> -->
+
+<h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer with a passion for backend development.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/media/b8245420aaaad501f66af5ac0ea7df2d.gif”>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasnimmollah" alt="tasnimmollah" /></a> </p>
-
-- 🔭 I’m currently working on a freelance project, a quiz portal for a medical school curriculum: **MedExperts.io**
+- 🔭 I’m currently working on a freelance project - a quiz portal for a medical school curriculum: **MedExperts.io**
 
 - 🌱 I’m currently learning **Java and Python.**
 
 - 💬 Ask me about **the PERN stack and Sequelize queries.**
 
-- 📫 How to reach me **tasnim.mollah@aya.yale.edu or https://www.linkedin.com/in/tasnimm/**
+- 📫 Reach me at **tasnim.mollah@aya.yale.edu or via LinkedIn https://www.linkedin.com/in/tasnimm/**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSoJN9vYyPOsLsXOQE3TFY08dflnk_jIltMnysa5LMaGHgrRiy6OqHFd83TDdysHQ/pub](https://docs.google.com/document/d/e/2PACX-1vSoJN9vYyPOsLsXOQE3TFY08dflnk_jIltMnysa5LMaGHgrRiy6OqHFd83TDdysHQ/pub)
+- 📄 View my experiences at [https://docs.google.com/document/d/e/2PACX-1vSoJN9vYyPOsLsXOQE3TFY08dflnk_jIltMnysa5LMaGHgrRiy6OqHFd83TDdysHQ/pub](https://docs.google.com/document/d/e/2PACX-1vSoJN9vYyPOsLsXOQE3TFY08dflnk_jIltMnysa5LMaGHgrRiy6OqHFd83TDdysHQ/pub)
 
-- ⚡ Fun fact **I'm a geography nerd.**
+- ⚡ Fun fact - **I'm a geography nerd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasnimmollah&show_icons=true&locale=en" alt="tasnimmollah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasnimmollah&" alt="tasnimmollah" /></p>
-
