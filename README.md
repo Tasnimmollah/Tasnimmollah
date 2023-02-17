@@ -3,15 +3,15 @@
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer with a passion for backend development.</h3>
 
-- 🔭 I’m currently developing a quiz portal for a medical professionals: See deployed app - **<a href="https://www.medexperts.io/" target="blank">MedExperts.io</a>**
+- 🔭 I’m currently developing a quiz portal for medical professionals. View deployed app - **<a href="https://www.medexperts.io/" target="blank">MedExperts.io</a>**.
 
 - 🌱 I’m currently learning **Java and Python.**
 
-- 💬 Ask me about **the PERN stack and Sequelize queries.**
+- 💬 Ask me about **the PERN stack and Sequelize queries**.
 
-- 📫 Reach me at **tasnim.mollah@aya.yale.edu** or via **<a href="https://linkedin.com/in/tasnimm" target="blank">LinkedIn</a>**
+- 📫 Reach me at **tasnim.mollah@aya.yale.edu**.
 
-- 📄 View my **<a href="https://docs.google.com/document/d/e/2PACX-1vSoJN9vYyPOsLsXOQE3TFY08dflnk_jIltMnysa5LMaGHgrRiy6OqHFd83TDdysHQ/pub" target="blank">Resume</a>**
+- 📄 View my **<a href="https://docs.google.com/document/d/e/2PACX-1vSoJN9vYyPOsLsXOQE3TFY08dflnk_jIltMnysa5LMaGHgrRiy6OqHFd83TDdysHQ/pub" target="blank">Resume</a>**.
 
 - ⚡ Fun fact - I'm a geography nerd.
 
