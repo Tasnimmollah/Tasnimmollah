@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer with a passion for backend development.</h3>
 
-- 🔭 I’m currently working on a freelance project - a quiz portal for a medical school curriculum: **MedExperts.io**
+- 🔭 I’m currently developing a quiz portal for a medical professionals: See deployed app - **<a href="https://www.medexperts.io/" target="blank">MedExperts.io</a>**
 
 - 🌱 I’m currently learning **Java and Python.**
 
