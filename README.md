@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **tasnim.mollah@aya.yale.edu**.
 
-- 📄 View my **<a href="https://docs.google.com/document/d/e/2PACX-1vSoJN9vYyPOsLsXOQE3TFY08dflnk_jIltMnysa5LMaGHgrRiy6OqHFd83TDdysHQ/pub" target="blank">Resume</a>**.
+- 📄 View my **<a href="https://docs.google.com/document/d/1CVLHefA92T2sHcGaQ3mAfHuKXoczE7mI/edit?usp=sharing&ouid=115318359283175270058&rtpof=true&sd=true" target="blank">Resume</a>**.
 
 - ⚡ Fun fact - I'm a geography nerd.
 
