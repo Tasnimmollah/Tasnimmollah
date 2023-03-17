@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently maintaining and adding features to a quiz portal for medical professionals. View deployed app at **<a href="https://www.medexperts.io/" target="blank">MedExperts.io</a>**.
 
-- 🔍 I am looking for a full-time, junior SWE or developer role.
+- 🔍 I'm looking for a full-time, junior SWE or developer role.
 
-- 🌱 I'm learning **Java and Python**.
+- 🌱 I'm also learning **Java and Python**.
 
 - 💬 Ask me about **the PERN stack and Sequelize queries**.
 
