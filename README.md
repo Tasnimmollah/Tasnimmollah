@@ -7,7 +7,7 @@
 
 - 🔍 I'm looking for a full-time, junior SWE or developer role.
 
-- 🌱 I'm also learning **Java and Python**.
+- 🌱 I'm also learning **Java**.
 
 - 💬 Ask me about **the PERN stack and Sequelize queries**.
 
