@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently maintaining and adding features to a quiz portal for medical professionals. View deployed app at **<a href="https://www.medexperts.io/" target="blank">MedExperts.io</a>**.
 
-- 🔍 I'm looking for a full-time junior Software Engineer or Developer role.
+- 🔍 I am looking for a full-time junior Software Engineer or Developer role.
 
 - 🌱 I'm also learning **Java**.
 
