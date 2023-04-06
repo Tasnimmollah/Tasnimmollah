@@ -7,7 +7,7 @@
 
 - 🔍 I'm looking for a full-time Software Engineer or Developer role.
 
-- 🌱 I'm also learning **Java**.
+- 🌱 I'm also learning **Java and exploring DevOps tools**.
 
 - 💬 Ask me about **the PERN stack and Sequelize queries**.
 
