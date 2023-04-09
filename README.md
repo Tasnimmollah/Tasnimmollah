@@ -9,7 +9,7 @@
 
 - 🌱 I'm also learning **Java** and exploring **DevOps tools**.
 
-- 💬 Ask me about **the PERN stack and Sequelize queries**.
+- 💬 Ask me about **the PERN stack** and **Sequelize queries**.
 
 - 📫 Reach me at **tasnim.mollah@aya.yale.edu**.
 
