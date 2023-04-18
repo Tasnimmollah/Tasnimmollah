@@ -1,4 +1,4 @@
-![MasterHead](<iframe src="https://drive.google.com/file/d/1cWG3YvYph01okKa4HRbHdeWGKI6-viMB/preview" width="640" height="480" allow="autoplay"></iframe>)
+![MasterHead]("https://drive.google.com/file/d/1cWG3YvYph01okKa4HRbHdeWGKI6-viMB/preview" width="640" height="480" allow="autoplay")
 
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer based in NYC with a passion for backend development.</h3>
