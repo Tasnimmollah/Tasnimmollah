@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQHdANBacCFkQg/profile-displaybackgroundimage-shrink_350_1400/0/1676594816849?e=1681948800&v=beta&t=K12r3azHDVh5LJTC8YBOWW4HrTvv9NT5BFG8yp21CQM)
+![MasterHead](<iframe src="https://drive.google.com/file/d/1cWG3YvYph01okKa4HRbHdeWGKI6-viMB/preview" width="640" height="480" allow="autoplay"></iframe>)
 
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer based in NYC with a passion for backend development.</h3>
