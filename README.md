@@ -1,4 +1,4 @@
-![MasterHead](https://www.canva.com/design/DAFax5Nbu3k/xk5aSWmBjBPSQzPkgvs9Yg/view?utm_content=DAFax5Nbu3k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+<iframe src="https://drive.google.com/file/d/1cWG3YvYph01okKa4HRbHdeWGKI6-viMB/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer based in NYC with a passion for backend development.</h3>
