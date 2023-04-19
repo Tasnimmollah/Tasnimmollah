@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Tasnimmollah/Tasnimmollah/blob/main/White%20Minimalist%20Personal%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/Tasnimmollah/Tasnimmollah/blob/main/White%20Minimalist%20Personal%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer based in NYC with a passion for backend development.</h3>
