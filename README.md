@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQHdANBacCFkQg/profile-displaybackgroundimage-shrink_350_1400/0/1676594816849?e=1681948800&v=beta&t=K12r3azHDVh5LJTC8YBOWW4HrTvv9NT5BFG8yp21CQM)
+![MasterHead](https://github.com/Tasnimmollah/Tasnimmollah/blob/main/White%20Minimalist%20Personal%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
 <h3 align="center">A software engineer based in NYC with a passion for backend development.</h3>
