@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/Tasnimmollah/Tasnimmollah/blob/main/White%20Minimalist%20Personal%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Tasnim </h1>
-<h3 align="center">A software engineer based in NYC with a passion for backend development.</h3>
+<h3 align="center">A software engineer based in NYC with a passion for web development.</h3>
 
 - 🔭 I’m currently maintaining and adding features to a quiz portal for medical professionals. View deployed app at **<a href="https://www.medexperts.io/" target="blank">MedExperts.io</a>**.
 
@@ -9,7 +9,7 @@
 
 - 🌱 I'm also learning **Python and Java** and exploring **DevOps tools**.
 
-- 💬 Ask me about **the PERN stack** and **Sequelize queries**.
+- 💬 Ask me about **the PERN stack**.
 
 - 📫 Reach me at **tasnim.mollah@aya.yale.edu**.
 
