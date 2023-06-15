@@ -9,7 +9,7 @@
 
 - 🌱 I'm also learning **Python and Java** and exploring **DevOps tools**.
 
-- 💬 Ask me about **the PERN stack**.
+- 💬 Ask me about **the PERN stack** and **resolving merge conflicts**.
 
 - 📫 Reach me at **tasnim.mollah@aya.yale.edu**.
 
