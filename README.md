@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently maintaining and adding features to a quiz portal for medical professionals. View deployed app at **<a href="https://www.medexperts.io/" target="blank">MedExperts.io</a>**.
 
-- 🔍 I'm looking for a Web Developer/Engineer role.
+- 🔍 I'm looking for a Web Engineer role.
 
 - 🌱 I'm also learning **Python** and **Java** and exploring **DevOps tools**.
 
